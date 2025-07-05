@@ -16,7 +16,7 @@
 - Weather conditions
 - Sunrise & Sunset times 🌅🌙
 - Pressure, Humidity, Sea Level and more 🌡️  
-  ✅ Temperature unit toggle (°C ↔ °F)  
+  ✅ Temperature unit toggle (°C/°F/K)  
   ✅ Smooth navigation with **Voyager**  
   ✅ Dependency Injection using **Koin**  
   ✅ Async image loading with **Kamel**  
