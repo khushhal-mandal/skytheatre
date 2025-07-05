@@ -87,10 +87,7 @@ Data (Ktor, Room, Repository pattern)
 
 ## 🔗 Getting Started
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/sky-theatre.git
-```
+1. Clone the repo
 2. Open in Android Studio (Giraffe or later) with KMP Multiplatform Plugin installed.
 3. Add your openweathermap api key in data/remote/WeatherApi.kt
 4. Run on
